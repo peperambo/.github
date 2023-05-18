@@ -1,7 +1,4 @@
-![PepeRAMBO](https://github.com/peperambo/assets/blob/main/img/rambo-sniper.png?raw=true)
-# PepeRAMBO (RAMBO) Whitepaper
-
-### Abstract:
+# PepeRAMBO (RAMBO) 
 PepeRAMBO (RAMBO) is a decentralized cryptocurrency built on the Binance Smart Chain (BSC) that aims to bring a new level of excitement and community-driven features to the meme coin space.
 
 It combines the elements of a meme coin with the power of the RAMBOsniper* . This whitepaper outlines the vision, tokenomics, and technical details of the Peperambo project,
