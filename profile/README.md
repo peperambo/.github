@@ -1,13 +1,13 @@
 # PepeRAMBO (RAMBO) 
 PepeRAMBO (RAMBO) is a decentralized cryptocurrency built on the Binance Smart Chain (BSC) that aims to bring a new level of excitement and community-driven features to the meme coin space.
 
-It combines the elements of a meme coin with the power of the RAMBO ChainSniper* . This whitepaper outlines the vision, tokenomics, and technical details of the Peperambo project,
+It combines the elements of a meme coin with the power of the RAMBO ChainSniper* . This whitepaper outlines the vision, tokenomics, and technical details of the PepeRAMBO project,
 highlighting its unique features and benefits.
 
 ### Introduction:
 PepeRAMBO (RAMBO) is a revolutionary project designed to leverage the growing popularity of meme coins and the potential of blockchain technology.
 
-By combining a meme-inspired theme with RAMBOsniper* dApp, Peperambo aims to offer an engaging and dynamic experience for its community members. 
+By combining a meme-inspired theme with RAMBOsniper* dApp, PepeRAMBO aims to offer an engaging and dynamic experience for its community members. 
 The project's core principles include transparency, fairness, and community involvement.
 ---------
 ----
@@ -24,9 +24,10 @@ The project's core principles include transparency, fairness, and community invo
  - Audited by certic
 
 ### Tokenomics:
-The tokenomics of Peperambo are designed to incentivize participation, ensure stability, and promote long-term growth. The distribution of tokens is as follows:
-- Team: 10% (subject to a vesting period of 3 months)
-- CEX and Treasury: 20% (allocated for liquidity and future development)
+The tokenomics of PepeRAMBO are designed to incentivize participation, ensure stability, and promote long-term growth. The distribution of tokens is as follows:
+- Team: 10% (subject to a vesting period of 6 months)
+- Pre-sale / Fairlaunch 5% (allocated for pre-sale)
+- CEX and Treasury: 15% (allocated for liquidity and future development)
 - Marketing: 7% (allocated for promotional activities) 
 - Charity: 3% (Allocated for Charity)
 - Liquidity: 60% (to provide stability and support trading)
