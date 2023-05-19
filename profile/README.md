@@ -1,19 +1,19 @@
-# PepeRAMBO (RAMBO) 
-PepeRAMBO (RAMBO) is a decentralized cryptocurrency built on the Binance Smart Chain (BSC) that aims to bring a new level of excitement and community-driven features to the meme coin space.
+# RAMBO ChainSniper (RAMBO) 
+RAMBO ChainSniper (RAMBO) is a decentralized cryptocurrency built on the Binance Smart Chain (BSC) that aims to bring a new level of excitement and community-driven features to the meme coin space.
 
-It combines the elements of a meme coin with the power of the RAMBO ChainSniper* . This whitepaper outlines the vision, tokenomics, and technical details of the PepeRAMBO project,
+It combines the elements of a meme coin with the power of the RAMBO ChainSniper* . This whitepaper outlines the vision, tokenomics, and technical details of the RAMBO ChainSniper project,
 highlighting its unique features and benefits.
 
 ### Introduction:
-PepeRAMBO (RAMBO) is a revolutionary project designed to leverage the growing popularity of meme coins and the potential of blockchain technology.
+RAMBO ChainSniper (RAMBO) is a revolutionary project designed to leverage the growing popularity of meme coins and the potential of blockchain technology.
 
-By combining a meme-inspired theme with RAMBOsniper* dApp, PepeRAMBO aims to offer an engaging and dynamic experience for its community members. 
+By combining a meme-inspired theme with RAMBOsniper* dApp, RAMBO ChainSniper aims to offer an engaging and dynamic experience for its community members. 
 The project's core principles include transparency, fairness, and community involvement.
 ---------
 ----
 ### Token Details:
 
-- Token Name: PepeRAMBO
+- Token Name: RAMBO ChainSniper
 - Ticker: RAMBO
 - Blockchain: Binance Smart Chain (BSC)
 - Total Supply: 4,000,000,000,000 RAMBO
@@ -24,7 +24,7 @@ The project's core principles include transparency, fairness, and community invo
  - Audited by certic
 
 ### Tokenomics:
-The tokenomics of PepeRAMBO are designed to incentivize participation, ensure stability, and promote long-term growth. The distribution of tokens is as follows:
+The tokenomics of RAMBO ChainSniper are designed to incentivize participation, ensure stability, and promote long-term growth. The distribution of tokens is as follows:
 - Team: 10% (subject to a vesting period of 6 months)
 - Pre-sale / Fairlaunch 5% (allocated for pre-sale)
 - CEX and Treasury: 15% (allocated for liquidity and future development)
@@ -100,7 +100,7 @@ Technical Requirements:
 
 ## Security Measures:
 
-To enhance security and instill trust in the project, PepeRAMBO implements the following measures:
+To enhance security and instill trust in the project, RAMBO ChainSniper implements the following measures:
 
 #### Vesting Period: 
 Team tokens are subject to a vesting period of 6 months, ensuring responsible token management.
@@ -115,7 +115,7 @@ A Secure Asset Fund for Users (SAFU) contract is implemented to protect the comm
 The contract ownership is renounced, eliminating the risk of centralized control and providing decentralized governance.
 
 ## Community Governance:
-PepeRAMBO believes in the power of community-driven decision-making. To ensure the active participation of the community, a governance model will be implemented, enabling RAMBO holders to propose and vote on important project decisions, such as the allocation of funds, partnerships, and feature developments.
+RAMBO ChainSniper believes in the power of community-driven decision-making. To ensure the active participation of the community, a governance model will be implemented, enabling RAMBO holders to propose and vote on important project decisions, such as the allocation of funds, partnerships, and feature developments.
 
 --
 
